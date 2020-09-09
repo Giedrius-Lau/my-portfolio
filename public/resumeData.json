@@ -1,0 +1,123 @@
+{
+    "main": {
+    
+        "name": "Giedrius",
+        "nameSurname": "Giedrius Lauruška",
+        "occupation": "ReactJS Developer",
+        "description": "Full Stack React Developer by Day, dreamer by Night.",
+        "image": "IG_Sonny.png",
+        "bio": "My name is Giedrius, I'm a Full Stack ReactJS Developer. Currently I'm working at Evolvery as a A/B testing developer ",
+        "contactmessage": "Get in touch with me for a cup of coffee, or regular talk",
+        "email": "lauruska.giedrius@gmail.com",
+        "phone": "+3706 90 54694",
+        "address": {
+            "city": "Kaunas",
+            "state": "LT",
+            "zip": "53365"
+        },
+        "resumedownload": "/Giedrius Lauruška - Front End Developer.pdf",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/giedrius.lauruska",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/giedriuslaur/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/lauruskagiedrius/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/giedriuslau",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "education": [
+            {
+                "school": "Vytautas Magnus university",
+                "degree": "Bachelor's degree in Marketing Management",
+                "graduated": "2015"
+            }
+        ],
+        "work": [
+            {
+                "company": "UAB ITOMA",
+                "title": "Junior Front end Developer",
+                "years": "February 2017 - July 2017",
+                "description": "HTML, SCSS , Javascript, jQuery, Cordova, Firebase, WordPress GIT. "
+            },
+            {
+                "company": "Endless Gain",
+                "title": "Front End Developer",
+                "years": "August 2017 - January 2018",
+                "description": "Building A/B tests - Javascript, jQuery, SCSS"
+            },
+            {
+                "company": "E-Bros",
+                "title": "Front End Developer",
+                "years": "March 2018 - July 2020",
+                "description": "Worked on e-commerce websites, and various other projects."
+            },
+            {
+                "company": "Evolvery",
+                "title": "Front End Developer",
+                "years": "August 2020 - present",
+                "description": "Javascript / CSS - AB testing. Google Tag Manager."
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "MERN Stack WhatsApp Clone",
+                "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+                "image": "whatsapp-mern.jpeg",
+                "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+            },
+            {
+                "title": "MERN Stack TikTok Clone",
+                "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+                "image": "tiktok-mern.jpeg",
+                "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+            },
+            {
+                "title": "Facebook Clone with React",
+                "category": "Facebook Clone built with ReactJS",
+                "image": "facebook-clone.png",
+                "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+            },
+            {
+                "title": "Airbnb Clone",
+                "category": "Facebook Clone built with ReactJS",
+                "image": "airbnb-clone.jpeg",
+                "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+            },
+            {
+                "title": "Netflix Clone",
+                "category": "Facebook Clone built with ReactJS",
+                "image": "netflix-clone.jpeg",
+                "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "text": "I've worked alongside Giedrius at Endless Gain - one of the UK's leading CRO agencies for over half a year. During the time with us he brought his front-end development skills to very high standards. By the end of his contract he was fully autonomous and needed no help with even the most complex A/B experiments. One of his traits I've enjoyed the most was his enthusiasm and willingness to learn new things. He was always excited to learn new coding techniques and was always more than happy to share this new knowledge with his colleagues. He is a true team player - happy to help where he can as well as happy to listen and learn from all of those around him. He is very well behaved and polite. During the company hosted events he was a real pleasure to talk to. ",
+                "user": "Laurynas Grigutis"
+            },
+            {
+                "text": "Giedrius was a pleasure to work with. He is consistently professional, well mannered and shows a keen interest to learn and improve his skill set beyond front end coding to fully appreciate and help meet business objectives. As a front end developer working across multiple A/B testing platforms and client websites, he showed he has good problem solving skills and the ability and willingness to tackle any task set for him. He has a conscientious approach to his work allowing him to complete tasks well. Giedrius is also a great team player, frequently offering to help others to meet their daily objectives and shows a genuine interest in the well being of those around him, which as part of a team working remotely was a true benefit that strengthened the team spirit.",
+                "user": "Abi Hough"
+            }
+        ]
+    }
+}
